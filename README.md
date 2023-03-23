@@ -45,7 +45,7 @@ The script will prompt the user to enter the text they want to convert to speech
 This project is licensed under the [MIT License](https://opensource.org/license/mit/).
 
 ## Acknowledgments
-This project was inspired by the gTTS library and the playsound library. Special thanks to the developers of these libraries for their contributions to the open source community.
+This project was inspired by the [gTTS](https://pypi.org/project/gTTS/) library and the [playsound](https://pypi.org/project/playsound/) library. Special thanks to the developers of these libraries for their contributions to the open source community.
 
 
  
